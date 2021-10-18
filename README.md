@@ -67,3 +67,8 @@ Jeśli dane są zanonimizowane
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
 ---
+
++ [edit](https://github.com/domenodoradca/www/edit/main/README.md)
+```
+https://github.com/domenodoradca/www.git
+```
