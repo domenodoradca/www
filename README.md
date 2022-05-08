@@ -1,6 +1,18 @@
+
 # [domenodoradca.pl](https://www.domenodoradca.pl/)
 
-## Doradztwo 
+## blog.domenodoradca.pl
+Kategorie artykułów - kategoria typu odbiorcy:
++ prywatny abonent
++ biznesmen, organizacja
++ provider
++ programista, devops, administrator, architekt
++ freelancer, influencer 
+
+
+# OFERTA
+
+## Doradztwo
 
 ## handel domenami
 
@@ -13,9 +25,9 @@
 
 
 
-#### Kontakt z pośrednikiem
+### Kontakt z pośrednikiem
 
-#### Kontakt z obecnym właścicielem (abonentem)
+### Kontakt z obecnym właścicielem (abonentem)
 
 Jeśli domena jest nie widoczna po wpisaniu w adres przeglądarki
 
@@ -24,6 +36,17 @@ Jeśli domena ma liczne przekierowania
 Jeśli dane WHOIS nie są prawdziwe
 
 Jeśli dane są zanonimizowane
+
+
+
+## rebranding domeny
+
+
+## prawo
+
+### odzyskiwanie utraconej domeny
+
+### prawne aspekty domen internetowych
 
 
 ## [inwestycja w domeny - domenowyinwestor.pl](https://www.domenowyinwestor.pl)
@@ -39,14 +62,16 @@ Jeśli dane są zanonimizowane
 #### zakup domeny nie wykorzystanej
 
 
-### rebranding domeny
+## Narzędzia
+
++ whois
++ dns lookup
++ oferty
 
 
-## prawo
+# NOWOŚCI
 
-### odzyskiwanie utraconej domeny
-
-### prawne aspekty domen internetowych
+## Czym różni się domena internetowa do domen opartych na blockchain?
 
 
 
@@ -72,3 +97,4 @@ Jeśli dane są zanonimizowane
 ```
 https://github.com/domenodoradca/www.git
 ```
+
