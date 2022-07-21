@@ -1,6 +1,13 @@
 
 # [domenodoradca.pl](https://www.domenodoradca.pl/)
 
+celem jest pomoc w utrzymaniu portfolia:
++ domen internetowych
++ usług 
++ platform z użytkownikami
++ pomoc techniczna z zapleczem
++ merytoryczne wsparcie w zabezpieczeniu biznesu online i offline w sieciach lokalnych
+
 ## blog.domenodoradca.pl
 Kategorie artykułów - kategoria typu odbiorcy:
 + prywatny abonent
